@@ -19,3 +19,5 @@
 </div>
 
   ##
+
+ ![Snake animation](https://github.com/GusRot/GusRot/blob/output/github-contribution-grid-snake.svg)
