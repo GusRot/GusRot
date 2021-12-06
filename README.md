@@ -15,7 +15,7 @@
   <img align="center" alt="GusRot-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="GusRot-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="GusRot-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="GusRot-pic" height="70" src="https://bn02pap001files.storage.live.com/y4mdWC8SYMmTWDm78q6pba-ounFaguLfyKJH0VyjP39UZcTfIdrzq8s8DNdz6iZdEaBTrtfYxfv8bRt7BmPYA86KOsnzW4M3JYgC_lsvcZFcaFF3sXMH2vS8dzzsIWxV3yYNipO-9bc4DVfzKbtH3YXHfmf540D0KeV5pcpM1uhXc58SAXaeSV9Ep3jEaFOtnZ-?width=506&height=547&cropmode=none">
+  <img align="right" alt="GusRot-pic" height="70" src="https://bn02pap001files.storage.live.com/y4mnBgzDZRywXOSkCOrla-BZz26eT3-sd0I5GpryxVXfFvcKD8vbjQrTi5n7NvS-JPCYWfVP4GaGbQpXMt6yQJZL9JBBYktMEo1kWZ2_AhOW0ZLfTs9HxcE7_bfvtdd0cz3mJHknrco89zrTU3JumutOagsxBgt4Lv7dPO6lov-dDIZSLVM0ktzjJYqwNa28b9J?width=506&height=547&cropmode=none">
 </div>
 
   ## Minhas contribuições
