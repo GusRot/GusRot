@@ -22,4 +22,4 @@
 
  ![Snake animation](https://github.com/GusRot/GusRot/blob/output/github-contribution-grid-snake.svg)
   
- Ser <en>front-end</en> é levar a melhor experiencia possível para o usuário. Por isso todas as minhas aplicações do Github você pode testar da melhor forma: <strong>Utilizando</strong>. Elas possuem dominios disponíveis aqui no Github para você utilizar como um usuário. 
+    Ser <en>front-end</en> é levar a melhor experiencia possível para o usuário. Por isso todas as minhas aplicações do Github você pode testar da melhor forma: <strong>Utilizando</strong>! Elas possuem dominios disponíveis aqui no Github para você utilizar como um usuário. 
