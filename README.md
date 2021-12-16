@@ -15,6 +15,10 @@
   <img align="center" alt="GusRot-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="GusRot-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="GusRot-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="GusRot-CSS" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+  <img align="center" alt="GusRot-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="GusRot-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="GusRot-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
   <img align="right" alt="GusRot-pic" height="70" src="https://bn02pap001files.storage.live.com/y4mnBgzDZRywXOSkCOrla-BZz26eT3-sd0I5GpryxVXfFvcKD8vbjQrTi5n7NvS-JPCYWfVP4GaGbQpXMt6yQJZL9JBBYktMEo1kWZ2_AhOW0ZLfTs9HxcE7_bfvtdd0cz3mJHknrco89zrTU3JumutOagsxBgt4Lv7dPO6lov-dDIZSLVM0ktzjJYqwNa28b9J?width=506&height=547&cropmode=none">
 </div>
 
