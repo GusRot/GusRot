@@ -19,6 +19,11 @@
   <img align="center" alt="GusRot-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="GusRot-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="GusRot-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
+  <img align="center" alt="GusRot-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="GusRot-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">
+  <img align="center" alt="GusRot-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg">
+  <img align="center" alt="GusRot-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg">
+  <img align="center" alt="GusRot-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
   <img align="right" alt="GusRot-pic" height="70" src="https://bn02pap001files.storage.live.com/y4mnBgzDZRywXOSkCOrla-BZz26eT3-sd0I5GpryxVXfFvcKD8vbjQrTi5n7NvS-JPCYWfVP4GaGbQpXMt6yQJZL9JBBYktMEo1kWZ2_AhOW0ZLfTs9HxcE7_bfvtdd0cz3mJHknrco89zrTU3JumutOagsxBgt4Lv7dPO6lov-dDIZSLVM0ktzjJYqwNa28b9J?width=506&height=547&cropmode=none">
 </div>
 
