@@ -34,4 +34,4 @@
  ![Snake animation](https://github.com/GusRot/GusRot/blob/output/github-contribution-grid-snake.svg)
   
  Being a <en>front-end developer</en> is to bring the best possible experience to the user
-. So all my Github applications have it's proper build! They have domains available here on Github's repositories for you to use as a user.
+. So the majority of my Github applications have it's proper build! They have domains available here on Github's repositories for you to use as a user.
