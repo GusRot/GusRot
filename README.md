@@ -4,7 +4,7 @@
 - 🔭 Trabalhando com front-end
 - 🌱 Estudando Typescript
 
-<div align="center">
+<div align="start">
   <a href="https://github.com/GusRot">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusRot&layout=compact&langs_count=7&theme=dracula"/>
 </div>
