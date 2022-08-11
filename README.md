@@ -2,7 +2,7 @@
 ### Olá, sou Gustavo Rotta 👋
 
 - 🔭 Trabalhando com front-end
-- 🌱 Estudando Typescript
+- 🌱 React / React Native
 
 <div align="start">
   <a href="https://github.com/GusRot">
