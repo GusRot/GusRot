@@ -2,7 +2,7 @@
 ### Hi, I'm Gustavo Rotta 👋
 
 - 🔭 Working with front-end
-- 🌱 React / React Native
+- 🌱 Studying Typescript
 
 <div align="start">
   <a href="https://github.com/GusRot">
