@@ -1,23 +1,21 @@
 ###  Versão README [Português](./README.md)  
 ### Hi, I'm Gustavo Rotta 👋
 
-<div>
-  <div>
-    <a href="https://github.com/GusRot">
-      <img height="230em" style="float: right;" src="./public\cracha.JPG"/>
-    </a>
-  </div>
-  - 🔭 Working with front-end
-  <br>
-  - 🌱 React / React Native
-  <br>
-  <div align="start">
-  <br>
-    <a href="https://github.com/GusRot">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusRot&layout=compact&langs_count=7&theme=dracula"/>
-    </a>
-  </div>
-</div>
+- 🔭 Working with front-end
+- 🌱 React / React Native
+
+<table >
+  <tr>
+    <td valign="top">
+      <a href="https://gusrot.github.io/Cracha/">
+        <img height="230em" src="./public\cracha.JPG"/>
+      </a>
+    </td>
+    <td valign="center" >
+      <img valign="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusRot&layout=compact&langs_count=7&theme=dracula"/>
+    </td>
+  </tr>
+</table>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="GusRot-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
