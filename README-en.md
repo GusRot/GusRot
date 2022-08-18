@@ -1,12 +1,22 @@
 ###  Versão README [Português](./README.md)  
 ### Hi, I'm Gustavo Rotta 👋
 
-- 🔭 Working with front-end
-- 🌱 React / React Native
-
-<div align="start">
-  <a href="https://github.com/GusRot">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusRot&layout=compact&langs_count=7&theme=dracula"/>
+<div>
+  <div>
+    <a href="https://github.com/GusRot">
+      <img height="230em" style="float: right;" src="./assets/cracha.jpg"/>
+    </a>
+  </div>
+  - 🔭 Working with front-end
+  <br>
+  - 🌱 React / React Native
+  <br>
+  <div align="start">
+  <br>
+    <a href="https://github.com/GusRot">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusRot&layout=compact&langs_count=7&theme=dracula"/>
+    </a>
+  </div>
 </div>
 
 <div style="display: inline_block"><br>

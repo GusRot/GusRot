@@ -1,12 +1,22 @@
 ###  Version of README [English](./README-en.md)  
-### Olá, sou Gustavo Rotta 👋
 
-- 🔭 Trabalhando com front-end
-- 🌱 React / React Native
-
-<div align="start">
-  <a href="https://github.com/GusRot">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusRot&layout=compact&langs_count=7&theme=dracula"/>
+## Olá, sou Gustavo Rotta 👋
+<div>
+  <div>
+    <a href="https://github.com/GusRot">
+      <img height="230em" style="float: right;" src="./assets/cracha.jpg"/>
+    </a>
+  </div>
+  - 🔭 Trabalhando com front-end
+  <br>
+  - 🌱 React / React Native
+  <br>
+  <div align="start">
+  <br>
+    <a href="https://github.com/GusRot">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusRot&layout=compact&langs_count=7&theme=dracula"/>
+    </a>
+  </div>
 </div>
 
 <div style="display: inline_block"><br>
@@ -35,3 +45,4 @@
  ![Snake animation](https://github.com/GusRot/GusRot/blob/output/github-contribution-grid-snake.svg)
   
  Ser <en>front-end</en> é levar a melhor experiencia possível para o usuário. Por isso a maioria das minhas aplicações do Github você pode testar da melhor forma: <strong>Utilizando</strong>! Elas possuem dominios disponíveis aqui nos repositórios Github para você utilizar como um usuário.
+
