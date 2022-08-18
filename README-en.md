@@ -4,10 +4,18 @@
 - 🔭 Working with front-end
 - 🌱 Studying Typescript
 
-<div align="start">
-  <a href="https://github.com/GusRot">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusRot&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<table >
+  <tr>
+    <td valign="top">
+      <a href="https://gusrot.github.io/Cracha/">
+        <img height="230em" src="./public\cracha.JPG"/>
+      </a>
+    </td>
+    <td valign="center" >
+      <img valign="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GusRot&layout=compact&langs_count=7&theme=dracula"/>
+    </td>
+  </tr>
+</table>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="GusRot-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
