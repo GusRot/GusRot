@@ -4,7 +4,7 @@
 <div>
   <div>
     <a href="https://github.com/GusRot">
-      <img height="230em" style="float: right;" src="./assets/cracha.jpg"/>
+      <img height="230em" style="float: right;" src="./public\cracha.JPG"/>
     </a>
   </div>
   - 🔭 Working with front-end
