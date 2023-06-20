@@ -28,8 +28,6 @@
   <img align="right" alt="GusRot-pic" height="70" src="https://bn02pap001files.storage.live.com/y4mnBgzDZRywXOSkCOrla-BZz26eT3-sd0I5GpryxVXfFvcKD8vbjQrTi5n7NvS-JPCYWfVP4GaGbQpXMt6yQJZL9JBBYktMEo1kWZ2_AhOW0ZLfTs9HxcE7_bfvtdd0cz3mJHknrco89zrTU3JumutOagsxBgt4Lv7dPO6lov-dDIZSLVM0ktzjJYqwNa28b9J?width=506&height=547&cropmode=none">
 </div>
 
-## Minhas contribuições
-
 [![wakatime](https://wakatime.com/badge/user/04f1420e-9d57-410a-bdc7-d768fb237a52.svg)](https://wakatime.com/@04f1420e-9d57-410a-bdc7-d768fb237a52)
   
  Ser <en>front-end</en> é levar a melhor experiencia possível para o usuário. Por isso a maioria das minhas aplicações do Github você pode testar da melhor forma: <strong>Utilizando</strong>! Elas possuem dominios disponíveis aqui nos repositórios Github para você utilizar como um usuário.
