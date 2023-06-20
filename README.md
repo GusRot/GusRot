@@ -31,7 +31,5 @@
 ## Minhas contribuições
 
 [![wakatime](https://wakatime.com/badge/user/04f1420e-9d57-410a-bdc7-d768fb237a52.svg)](https://wakatime.com/@04f1420e-9d57-410a-bdc7-d768fb237a52)
-
- ![Snake animation](https://github.com/GusRot/GusRot/blob/output/github-contribution-grid-snake.svg)
   
  Ser <en>front-end</en> é levar a melhor experiencia possível para o usuário. Por isso a maioria das minhas aplicações do Github você pode testar da melhor forma: <strong>Utilizando</strong>! Elas possuem dominios disponíveis aqui nos repositórios Github para você utilizar como um usuário.
