@@ -2,7 +2,19 @@
 ### Olá, sou Gustavo Rotta 👋
 
 - 🔭 Adobe Certified Expert Front-End Developer - Adobe Commerce
-- 🌱 Magento2 / React / React Native
+- 💻 Magento2 / React / React Native
+- +20 Managed services
+- +15 Frontend Theming
+  - 3 multistores
+  - 3 B2B
+  - 1 multistore with 6 websites
+- Industry Experience:
+  - 🥗 Natural and Organic Products
+  - 🧰 Hydraulic Parts
+  - ⚙  Mechanical Parts
+  - 🍞 Agriculture
+  - 🏅 Sports
+  - 🔫 Weapons
 
 [![wakatime](https://wakatime.com/badge/user/04f1420e-9d57-410a-bdc7-d768fb237a52.svg)](https://wakatime.com/@04f1420e-9d57-410a-bdc7-d768fb237a52)
 
